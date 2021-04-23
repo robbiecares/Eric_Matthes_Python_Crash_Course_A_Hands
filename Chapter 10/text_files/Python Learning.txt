@@ -1,0 +1,5 @@
+In Python you can create immutable values, which are values that cannot be changed once created.
+In Python you can create loops which perform the same actions as many times as required or until a specific condition has been met. This latter is called a "while" loop.
+In Python you can preform list comprehension which is a "shorthand" way of writing "for" loops in one line of code.
+In Python you can use the multiple assignment trick to assign multiple variables to one set of data all in one line of code.
+In Python you can create dictionaries to store data that you need to call based on a specific key.
